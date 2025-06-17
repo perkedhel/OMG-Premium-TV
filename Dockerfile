@@ -1,6 +1,6 @@
 # Usa un'immagine Node.js come base
 FROM node:16-slim
-
+1
 # Imposta la directory di lavoro
 WORKDIR /app
 
